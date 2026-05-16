@@ -126,10 +126,18 @@ plt.show()
 
 ## Output
 - Averaging filter smooths the image
+<img width="769" height="314" alt="image" src="https://github.com/user-attachments/assets/159e51fd-d5ba-4729-98ad-5556953a6f71" />
+
 - Gaussian filter reduces noise
+  <img width="621" height="261" alt="image" src="https://github.com/user-attachments/assets/7972687f-e5a0-43ac-96e4-6b2589c081c0" />
+
 - Median filter removes salt-and-pepper noise
+
+  <img width="621" height="261" alt="image" src="https://github.com/user-attachments/assets/33d6e97f-9f91-47ab-854b-0eb0f00faf0e" />
+
 - Laplacian filter sharpens edges
 - Laplacian operator detects edges clearly
+<img width="950" height="261" alt="image" src="https://github.com/user-attachments/assets/b4e17fe6-9062-496e-862d-ca8df2b87f99" />
 
 ---
 
